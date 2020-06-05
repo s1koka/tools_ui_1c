@@ -164,6 +164,10 @@
         <items xsi:type="form:FormField">
           <name>ВключаяПоля</name>
           <id>168</id>
+          <title>
+            <key>ru</key>
+            <value>Включая поля2</value>
+          </title>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
